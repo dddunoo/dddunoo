@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on CP (specifically CodeForces and USACO) and would love some help with problem-solving techniques/skills for contests.
+
 <!--
 **dddunoo/dddunoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
